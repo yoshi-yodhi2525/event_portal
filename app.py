@@ -5,9 +5,7 @@ import plotly.graph_objects as go
 from PIL import Image
 import qrcode
 import io
-import json
 from datetime import datetime, timedelta
-import base64
 from streamlit_option_menu import option_menu
 
 # ページ設定
